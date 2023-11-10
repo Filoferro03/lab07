@@ -9,7 +9,6 @@
 3. Implement an inner class that implements the `Iterator<T>` interface so that it iterates over the elements of the array given to the constructor.
 4. Implement the `iterator()` method so that it returns an instance of the inner class.
 5. Test the implementation by running the `TestIterablePlain` class.
-
 ## Part 2: iterable with policy
 
 1. Add a new constructor to the newly created class that takes two arguments: an array of `T` elements and a `Predicate<T>` that will be used to filter the elements during the iteration.
